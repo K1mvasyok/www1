@@ -8,7 +8,7 @@
 
 body {
     /*background: linear-gradient(280deg, #e5c1c0,#76dae4,#a0e8bb);*/
-    background: white;                                 
+    background: -webkit-linear-gradient(180deg, #8bc9fe,#7fe3fe,#a3e5dc);                                 
 }
 
 .main-heading { /* HEADING */
@@ -16,13 +16,13 @@ body {
     padding-bottom: 40px;
     text-align: center;
 } .main-heading span {
-    opacity: 100%;
+    opacity: 70%;
 } .main-heading h1 {
     font-weight: bold;
 } .main-heading h2 {
     font-weight:normal;
     font-size: medium;
-    opacity: 1;
+    opacity: 0.9;
 }
 
 .accordion-sections { /* Articles block */
